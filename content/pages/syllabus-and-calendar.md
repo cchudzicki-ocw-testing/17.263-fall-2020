@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the course description, learning goals, required
+  book, and calendar.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
